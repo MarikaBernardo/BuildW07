@@ -1,0 +1,82 @@
+.bg-dark {
+    background-color: white
+}
+.foto{
+    margin: 26px;
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.im1{
+    height: 415px;
+    width: 100%;
+}
+
+.im2{
+    height:200px;
+    width: 100%;
+    margin-bottom: 15px;
+
+}
+.margin{
+    margin-top: -195px;
+}
+
+#dateofbirth{
+    border-radius: 7px;
+}
+.review-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.left-column {
+    flex: 1;
+    padding: 20px;
+
+}
+
+.right-column {
+    flex: 1;
+    padding: 20px;
+
+    margin-left: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+
+    border-radius: 5px;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+
+    border-radius: 5px;
+}
+
+.card-title1{
+    margin-left: 150px;
+
+}
+
+.foto20{
+    width: 24px;
+}
+
+#navbarSupportedContent{
+    margin-left: 851px;
+
+}
